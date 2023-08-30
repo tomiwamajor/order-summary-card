@@ -131,3 +131,9 @@ body {
   cursor: pointer;
   color: rgb(98, 112, 151);
 }
+
+@media only screen and (max-width: 450px) {
+  .container {
+    width: 30rem;
+  }
+}
